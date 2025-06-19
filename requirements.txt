@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+Pillow
+numpy
+Jupyter Notebook
+matplotlib.pyplot
+os
+shutil
+random
+tqdm
