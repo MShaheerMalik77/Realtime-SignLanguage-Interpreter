@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weight files (we don’t want to upload large .pth files)
+*.pth
+
+# Virtual environment (if created inside the folder)
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
